@@ -1,0 +1,37 @@
+/*
+ Theme Name:   Ignite Plus Child
+ Template:     ignite-plus
+*/
+ 
+@import url("../ignite-plus/style.min.css");
+ 
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+body {
+	font-family: Lato, sans-serif;
+}
+
+.site-title {
+	font-family: Lato, sans-serif;
+	font-weight: 700;
+	font-size: 24px;
+}
+
+/*
+.tagcloud {
+	font-family: Lato, sans-serif;
+}
+*/
+
+.excerpt-title {
+	font-family: Lato, sans-serif;
+}
+
+.entry-title {
+	font-family: Lato, sans-serif;
+}
+
+.widget-title {
+	font-family: Lato, sans-serif;
+}
